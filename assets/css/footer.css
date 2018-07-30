@@ -1,0 +1,74 @@
+ #footer{
+              background-color:#5EABB0;
+              width: 100%;
+              margin-top: 10px;
+              }
+          #footer ul{
+              
+            align-content: center;
+              
+              
+          }
+          #footer ul li{
+              align-content: center;
+              padding: 10px;
+            
+              
+          }
+          #footer ul li a{
+              padding:10px;
+              color: white;
+              
+          }
+          #footer ul li a:hover{
+             color: white;
+            
+          }
+          
+          
+          <!---Social Icon css Start From Here-->
+
+
+          .social-icon ul li{
+            
+           }
+          .social-icon ul li:hover{
+              color: white;
+            
+          }
+          <!--footer Form Css Start From here-->
+    
+          .Add{
+              color: white;
+              align-items: center;
+              align-content: center;
+              margin: 25px;
+          }
+          .f-section{
+             color: white;
+          }
+          .footer-link{
+              color: white;
+              
+          }
+          .social icon li{
+              color: red;
+          }
+          .f-section input{
+              padding: 10px;
+              margin: 5px;
+              color: black;
+          }
+          #appoint{
+              padding: 15px;
+              position: absolute;
+              left: 15%;
+              top: 10%;
+          }
+          #appoint-contact{
+              padding: 15px;
+              position: absolute;
+              left: 25px;
+              top: 10%;
+              
+          }
